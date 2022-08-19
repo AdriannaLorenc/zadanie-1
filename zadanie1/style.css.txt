@@ -1,0 +1,7 @@
+
+<style>
+body {
+  background-image: url('./road.jfif');
+  background-repeat: no-repeat;
+}
+</style>
